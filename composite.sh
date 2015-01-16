@@ -1,0 +1,21 @@
+composite -blend 20 ori_10000.tiff ori_defect_map_010.tiff ori_and_def_0010t_maggrad_9point_high_noise.tiff
+composite -blend 20 ori_20000.tiff ori_defect_map_020.tiff ori_and_def_0020t_maggrad_9point_high_noise.tiff
+composite -blend 20 ori_40000.tiff ori_defect_map_040.tiff ori_and_def_0040t_maggrad_9point_high_noise.tiff
+composite -blend 20 ori_80000.tiff ori_defect_map_080.tiff ori_and_def_0080t_maggrad_9point_high_noise.tiff
+composite -blend 20 ori_150000.tiff ori_defect_map_150.tiff ori_and_def_0160t_maggrad_9point_high_noise.tiff
+composite -blend 20 ori_300000.tiff ori_defect_map_300.tiff ori_and_def_0300t_maggrad_9point_high_noise.tiff
+composite -blend 20 ori_600000.tiff ori_defect_map_600.tiff ori_and_def_0600t_maggrad_9point_high_noise.tiff
+composite -blend 20 ori_1200000.tiff ori_defect_map_1200.tiff ori_and_def_1200t_maggrad_9point_high_noise.tiff
+composite -blend 20 ori_2400000.tiff ori_defect_map_2400.tiff ori_and_def_2400t_maggrad_9point_high_noise.tiff
+composite -blend 20 ori_3200000.tiff ori_defect_map_3200.tiff ori_and_def_3200t_maggrad_9point_high_noise.tiff
+
+composite -blend 20 ori_10000.tiff ori_defect_map_010.tiff ori_and_def_0010t_Plapp_9point_high_noise.tiff
+composite -blend 20 ori_20000.tiff ori_defect_map_020.tiff ori_and_def_0020t_Plapp_9point_high_noise.tiff
+composite -blend 20 ori_40000.tiff ori_defect_map_040.tiff ori_and_def_0040t_Plapp_9point_high_noise.tiff
+composite -blend 20 ori_80000.tiff ori_defect_map_080.tiff ori_and_def_0080t_Plapp_9point_high_noise.tiff
+composite -blend 20 ori_150000.tiff ori_defect_map_150.tiff ori_and_def_0160t_Plapp_9point_high_noise.tiff
+composite -blend 20 ori_300000.tiff ori_defect_map_300.tiff ori_and_def_0300t_Plapp_9point_high_noise.tiff
+composite -blend 20 ori_600000.tiff ori_defect_map_600.tiff ori_and_def_0600t_Plapp_9point_high_noise.tiff
+composite -blend 20 ori_1200000.tiff ori_defect_map_1200.tiff ori_and_def_1200t_Plapp_9point_high_noise.tiff
+composite -blend 20 ori_2400000.tiff ori_defect_map_2400.tiff ori_and_def_2400t_Plapp_9point_high_noise.tiff
+composite -blend 20 ori_3200000.tiff ori_defect_map_3200.tiff ori_and_def_3200t_Plapp_9point_high_noise.tiff
